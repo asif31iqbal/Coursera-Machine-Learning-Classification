@@ -1,0 +1,1 @@
+define("bundles/ondemand/constants/InstructorMessageTypes",["require","exports","module","js/lib/keyMirror"],function(require,exports,module){"use strict";var e=require("js/lib/keyMirror");module.exports=e({WELCOME:null,MODULE:null,THANK_YOU:null})});
